@@ -1,0 +1,2 @@
+It is recommended to always pair a target="_blank" with a rel="noopener noreferrer".
+
